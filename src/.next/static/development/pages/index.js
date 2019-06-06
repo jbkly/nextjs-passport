@@ -4394,7 +4394,7 @@ function () {
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!**********************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CDev%5Cnextjs-passport%5Csrc%5Cpages%5Cindex.js ***!
   \**********************************************************************************************************************/
@@ -4417,5 +4417,5 @@ module.exports = dll_eca3f212c83fe644b694;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
