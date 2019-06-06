@@ -18,6 +18,10 @@
     "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
+    ],
+    "/share-thought": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }
