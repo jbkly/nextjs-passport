@@ -1,10 +1,12 @@
 {
   "name": "nextjs-passport",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node ./src/server.js",
+    "build": "next build ./src",
+    "start": "NODE_ENV=production node ./src/server.js"
   },
   "keywords": [],
   "author": "",
