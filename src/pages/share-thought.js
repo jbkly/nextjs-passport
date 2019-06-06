@@ -2,7 +2,6 @@ import Form from "react-bootstrap/Form";
 import Router from "next/router";
 import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
-// const { useState } = require("react");
 import { useState } from "react";
 
 export default function ShareThought() {
